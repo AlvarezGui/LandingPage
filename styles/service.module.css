@@ -1,0 +1,12 @@
+.container-bg{
+    background-color: white;
+    padding-top: 100px;
+}
+
+.container{
+    min-height: 50vh;
+}
+
+.centro{
+    text-align: center;
+}
