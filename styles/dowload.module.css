@@ -1,0 +1,18 @@
+.container_bg{
+    background-color: white;
+}
+
+.container{
+    min-height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.imagens{
+    display: flex;
+    justify-content: center;
+        align-items: center;
+        text-align: center;
+}
