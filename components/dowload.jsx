@@ -14,7 +14,7 @@ export default function Dowload(){
                 <Container className={Estilo.imagens}>
                     <Row>
                         <Col xs={12} md={6}>
-                            <Image src={'/assets/app-aple-btn.svg'} className='img-fluid' width={244} height={76}></Image>
+                            <Image src={'/assets/app-apple-btn.svg'} className='img-fluid' width={244} height={76}></Image>
                         </Col>
                         <Col xs={12} md={6}>
                             <Image src={'/assets/app-play-btn.svg'} className='img-fluid' width={244} height={76}></Image>
